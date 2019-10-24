@@ -13,15 +13,15 @@ View 게시판 :: 동영상, 이미지, 글을 표시하는 게시판
 
 - 게시글을 하나의  팝업으로 표현하는 게시판입니다.
 
-![list](./assets/list.png)
+    ![list](./assets/list.png)
 
 - 같은 게시글이라도 여러개의 `별도의 팝업`으로 표현합니다.
 
-![alot](./assets/alot.png)
+    ![alot](./assets/alot.png)
 
 - 동영상, 이미지, 글 하나의 테마로 게시글을 작성할 수 있습니다.
 
-![video](./assets/video.png)
+    ![video](./assets/video.png)
 
 - 각 게시글은 브라우저 내에서 이동할 수 있습니다.
 
